@@ -1,3 +1,6 @@
 cafe
 azúcar
 Cambio realizado en una rama secundaria. // cambio desde la rama master//
+Cambio //esto es en la rama-nueva// realizado en una rama secundaria.
+cambio realizado nuevamente desde una rama secundaria para el conflicto
+
